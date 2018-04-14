@@ -1,6 +1,8 @@
 # throwinglambdas
 Library to help with Java 8+ lambda expressions that throw checked exceptions.
 
+Based on Baeldung's article [Exceptions in Java 8 Lambda Expressions](http://www.baeldung.com/java-lambda-exceptions).
+
 ## Introduction
 This project contains throwing specializations of the functional interfaces of the `java.util.function` package.
 
